@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1131101",
+      "name": "亲子",
+      "font_class": "qinzi",
+      "unicode": "e841",
+      "unicode_decimal": 59457
+    },
+    {
+      "icon_id": "2175031",
+      "name": "家庭",
+      "font_class": "jiating",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "2839066",
+      "name": "情感分析-10",
+      "font_class": "chugui",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "3449562",
+      "name": "其他",
+      "font_class": "qita",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "6680351",
+      "name": "婚姻问题",
+      "font_class": "hunyinwenti",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "6981995",
+      "name": "全部",
+      "font_class": "quanbu",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "10450518",
+      "name": "职场",
+      "font_class": "zhichang",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    }
+  ]
+}

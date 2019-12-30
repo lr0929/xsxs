@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "719524",
+      "name": "浏览",
+      "font_class": "liulan-copy",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1352491",
+      "name": "分享",
+      "font_class": "Artboard",
+      "unicode": "e927",
+      "unicode_decimal": 59687
+    },
+    {
+      "icon_id": "10941712",
+      "name": "信息 短信 消息 提醒 邮件 私信 邮箱",
+      "font_class": "xinxiduanxinxiaoxitixingyoujiansixinyouxiang",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}

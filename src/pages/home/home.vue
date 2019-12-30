@@ -385,7 +385,7 @@
             this.myswipery()
             this.myswipery2()
 
-            this.scrollToTop()
+            // this.scrollToTop()
         },
 
         methods: {
@@ -439,7 +439,8 @@
                     pagination: '.swiper-pagination',
                     slidesPerView: 3,
                     paginationClickable: true,
-                    spaceBetween: 3
+                    spaceBetween: 3,
+                    freeMode:true,      //自由滑动
                 });
             }
         }
